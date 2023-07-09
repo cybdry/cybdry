@@ -21,6 +21,7 @@ My name is Arsene Adjevi, and I'm an experienced embedded software engineer with
 ![](https://img.shields.io/badge/GUI-QT_QML-informational?style=flat&logo=qt&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/GUI-OpenGL-informational?style=flat&logo=opengl&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Make-informational?style=flat&logo=cmake&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Wasm-informational?style=flat&logo=wasmer&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-TinyML-informational?style=flat&logo=tensorflow&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Yocto-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-RabbitMQ-informational?style=flat&logo=rabbitmq&logoColor=white&color=2bbc8a)
