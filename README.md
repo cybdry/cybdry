@@ -1,41 +1,42 @@
 <!-- More info, tips and tricks for making GitHub Profile README can be found in my article at https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 -->
 
-<!--[![Header](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/readme_header.png "Header")](https://cybdry.github.io/)-->
+[![Header](https://raw.githubusercontent.com/cybdry/cybdry/master/header.png "Header")](https://cybdry.github.io/)
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
-My name is Arsene Adjevi, and I'm an experienced embedded software engineer with a passion for crafting efficient and robust code. With a strong background in software development and a deep understanding of embedded systems, I enjoy working on challenging projects that push the boundaries of technology. From designing firmware architectures to optimizing performance, I strive to deliver high-quality solutions that exceed expectations. I'm constantly exploring new technologies and keeping up with the latest industry trends to stay at the forefront of innovation. Let's collaborate and create exceptional software together. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
+My name is Arsene Adjevi, and I'm an experienced embedded software engineer with a passion for crafting efficient and robust code. With a strong background in software development and a deep understanding of embedded systems, I enjoy working on challenging projects that push the boundaries of technology. From designing firmware architectures to optimizing performance, I strive to deliver high-quality solutions that exceed expectations. I'm constantly exploring new technologies and keeping up with the latest industry trends to stay at the forefront of innovation. Let's collaborate and create exceptional software together. You can find me  on [![LinkedIn][3.2]][3].
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-Vim-informational?style=flat&logo=vim&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cpp&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=C++&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-GDB-informational?style=flat&logo=gdb&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Rust-informational?style=flat&logo=rust&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Cuda_C/C++-informational?style=flat&logo=c&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/MCU-ARM-informational?style=flat&logo=arm&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/GUI-QT_QML-informational?style=flat&logo=qt&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/GUI-OpenGL-informational?style=flat&logo=opengl&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Make-informational?style=flat&logo=cmake&logoColor=white&color=2bbc8a)
-<!--![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=2bbc8a)-->
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-TinyML-informational?style=flat&logo=tensorflow&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Yocto-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-RabbitMQ-informational?style=flat&logo=rabbitmq&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-OpenCV-informational?style=flat&logo=opencv&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 
 
 
 
-## &#x270d; Blog & Writing
+## &#128918; What I'm currently doing and in my spare time....
 
-Apart from coding, I also maintain a blog - you can find my articles on my website at [martinheinz.dev](https://martinheinz.dev/) as well as on [Medium](https://medium.com/@martin.heinz) and [DEV.to](https://dev.to/martinheinz).
+Currently, I'm immersing myself in the fascinating realm of algorithm and control development for swarm robotic systems. I find great joy in exploring the intricate interplay between software and hardware, striving to enhance the capabilities and intelligence of these autonomous entities. During my spare time, I enthusiastically indulge in two equally captivating pursuits. On one hand, I am constantly honing my skills in hardware design using Kicad, crafting innovative and efficient solutions. On the other hand, I passionately contribute to open-source software projects that align with my interests, fostering a collaborative and dynamic community. With an insatiable thirst for knowledge and a strong drive to excel, I am dedicated to pushing the boundaries of what is possible in the world of embedded software engineering.
 
-A sample of my recent articles:
-
-<!-- BLOG-POST-LIST:START -->
-- [Remote Interactive Debugging of Python Applications Running in Kubernetes](https://martinheinz.dev/blog/99)
-- [The Right Way to Run Shell Commands From Python](https://martinheinz.dev/blog/98)
-- [Real Multithreading is Coming to Python - Learn How You Can Use It Now](https://martinheinz.dev/blog/97)
-- [Python&#39;s Missing Batteries: Essential Libraries You&#39;re Missing Out On](https://martinheinz.dev/blog/96)
-<!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
 
@@ -46,14 +47,6 @@ A sample of my recent articles:
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=cybdry&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
 </a>
 
-<a href="https://github.com/MartinHeinz/python-project-blueprint">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MartinHeinz&repo=python-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
-
-<a href="https://github.com/MartinHeinz/go-project-blueprint">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MartinHeinz&repo=go-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>    
 
 <!-- links to social media icons -->
 
@@ -66,14 +59,13 @@ A sample of my recent articles:
 
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
 [2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
-[3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+[3.2]: https://raw.githubusercontent.com/cybdry/cybdry/master/linkedin-3-16.png (LinkedIn icon without padding)
 
 
 <!-- links to your social media accounts -->
 
-[1]: https://twitter.com/Martin_Heinz_
-[2]: https://github.com/MartinHeinz
-[3]: https://www.linkedin.com/in/heinz-martin/
+[2]: https://github.com/cybdry
+[3]: https://www.linkedin.com/in/arsene-adjevi-396490221/
 
 
 <!-- Resources -->
